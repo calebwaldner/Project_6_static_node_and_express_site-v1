@@ -25,7 +25,7 @@ app.get(`/projects:id`, (req, res) => {
 // Error handling
 app.use((req, res, next) => {
   // any requests that make it this far without being routed will produce this error;
-  const err = new Error("Sorry, page not found. Maybe this call stack will help?");
+  const err = new Error("Sorry, page not found.");
   err.status = 404;
   next(err);
 });
