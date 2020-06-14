@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Project workspace
+project_6.code-workspace
+
+# Project Development Notes
+project.notes

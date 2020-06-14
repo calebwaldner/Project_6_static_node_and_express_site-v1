@@ -148,3 +148,70 @@ a:hover{
 .portfolio-bio{
     line-height: 25px;
 }
+
+
+/* My Updates */
+body{
+  background-color: #EDE6E3;
+}
+
+h1{
+  color: #36382E;
+}
+
+.button{
+  background-color: #36382E;
+}
+
+.button:hover{
+  background-color: #F06449;
+  color: #36382E;
+}
+
+.portfolio-index .cell h5{
+  color: #36382E;
+}
+
+.portfolio-intro p{
+  color: #36382E;
+}
+
+.title-bar{
+  background-color: #36382E;
+}
+
+.portfolio-me{
+  background-color: #36382E;
+}
+
+.portfolio-me p{
+  color: #DADAD9;
+}
+
+.portfolio-me a{
+  color: #EDE6E3;
+}
+
+.portfolio-me a:hover{
+  color: #5BC3EB;
+}
+
+.my-thumbnail{
+  border-color: #F06449;
+}
+
+.project-thumbnail:hover{
+  transition-duration: .2s;
+  transform: scale(1.03);
+}
+
+@media (max-width: 500px) {
+  .grid-x{
+    flex-flow: column wrap;
+  }
+
+  .grid-x > .small-6{
+    width: 100%;
+    padding: 10px 0;
+  }
+}

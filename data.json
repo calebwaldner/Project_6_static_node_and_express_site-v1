@@ -1,0 +1,158 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Board Game Survey Form",
+      "description": "A simple form for logging board game plays. This was one of my first projects.",
+      "technologies": [
+        "HTML",
+        "CSS"
+      ],
+      "live_link": "https://calebwaldner.github.io/boardgame-survey-form/",
+      "github_link": "https://github.com/calebwaldner/boardgame-survey-form",
+      "thumbnail": "boardgame-survey-form-thumb.png",
+      "image_urls": [
+        "boardgame-survey-form1.png",
+        "boardgame-survey-form2.png"
+      ]
+    },
+    {
+      "id": 1,
+      "project_name": "Technical Documentation Page",
+      "description": "A simple webpage to navigate and display documentation.",
+      "technologies": [
+        "HTML",
+        "CSS"
+      ],
+      "live_link": "https://calebwaldner.github.io/technical-documentation-template/",
+      "github_link": "https://github.com/calebwaldner/technical-documentation-template",
+      "thumbnail": "technical-documentation-template-thumb.png",
+      "image_urls": [
+        "technical-documentation-template1.png",
+        "technical-documentation-template2.png"
+      ]
+    },
+    {
+      "id": 2,
+      "project_name": "Random Quote Viewer",
+      "description": "A website displaying random quotes on a timer.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "live_link": "https://calebwaldner.github.io/project1-RandomQuoteGenerator/",
+      "github_link": "https://github.com/calebwaldner/project1-RandomQuoteGenerator",
+      "thumbnail": "quote-thumb.png",
+      "image_urls": [
+        "quote1.png",
+        "quote2.png",
+        "quote3.png"
+      ]
+    },
+    {
+      "id": 3,
+      "project_name": "Pagination Demonstration",
+      "description": "A demonstration of pagination via vanilla JavaScript.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "live_link": "https://calebwaldner.github.io/project2-pagination-filter-v2/",
+      "github_link": "https://github.com/calebwaldner/project2-pagination-filter-v2",
+      "thumbnail": "pag-thumb.png",
+      "image_urls": [
+        "pag1.png",
+        "pag2.png",
+        "pag3.png",
+        "pag4.png"
+      ]
+    },
+    {
+      "id": 4,
+      "project_name": "Interactive Form",
+      "description": "A demonstration of form logic and validation via vanilla JavaScript.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "live_link": "https://calebwaldner.github.io/Project-3-interactive-form/",
+      "github_link": "https://github.com/calebwaldner/Project-3-interactive-form",
+      "thumbnail": "formval-thumb.png",
+      "image_urls": [
+        "formval1.png",
+        "formval2.png",
+        "formval3.png",
+        "formval4.png"
+      ]
+    },
+    {
+      "id": 5,
+      "project_name": "Phrase Hunter",
+      "description": "A phrase game made with vanilla JavaScript. There are a ton of phrases, so enjoy!",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "live_link": "https://calebwaldner.github.io/Project-4-phrase-hunter/",
+      "github_link": "https://github.com/calebwaldner/Project-4-phrase-hunter",
+      "thumbnail": "phasehunter-thumb.png",
+      "image_urls": [
+        "phrasehunter1.png",
+        "phrasehunter2.png",
+        "phrasehunter3.png",
+        "phrasehunter4.png",
+        "phrasehunter5.png"
+      ]
+    },
+    {
+      "id": 6,
+      "project_name": "Trivia Face Off Game",
+      "description": "A webapp to assist in a Trivia Face Off game. I made and used this when I was a teacher, it was a huge hit.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "live_link": "https://calebwaldner.github.io/Face_off_game_assistant/",
+      "github_link": "https://github.com/calebwaldner/Face_off_game_assistant",
+      "thumbnail": "faceoff-thumb.png",
+      "image_urls": [
+        "faceoff1.png",
+        "faceoff2.png",
+        "faceoff3.png",
+        "faceoff4.png"
+      ],
+      "video_urls": {
+        "video_url_webm": "faceoffvid.webm",
+        "video_url_mp4": "faceoffvid.mp4"
+      }
+    },
+    {
+      "id": 7,
+      "project_name": "Employee Directory",
+      "description": "A searchable, interactive employee directory site sourced via a public API.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "live_link": "https://calebwaldner.github.io/Project-5-public_api_request-v1/",
+      "github_link": "https://github.com/calebwaldner/Project-5-public_api_request-v1",
+      "thumbnail": "api-thumb.png",
+      "image_urls": [
+        "api1.png",
+        "api2.png",
+        "api3.png",
+        "api4.png"
+      ],
+      "video_urls": {
+        "video_url_webm": "apivid.webm",
+        "video_url_mp4": "apivid.mp4"
+      }
+    }
+  ]
+}

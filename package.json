@@ -1,0 +1,23 @@
+{
+  "name": "cw_website",
+  "version": "1.0.0",
+  "description": "Caleb Waldner's website",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calebwaldner/Project_6_static_node_and_express_site-v1.git"
+  },
+  "author": "Caleb Waldner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calebwaldner/Project_6_static_node_and_express_site-v1/issues"
+  },
+  "homepage": "https://github.com/calebwaldner/Project_6_static_node_and_express_site-v1#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  }
+}
