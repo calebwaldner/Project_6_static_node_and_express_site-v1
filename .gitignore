@@ -108,3 +108,6 @@ project_6.code-workspace
 
 # Project Development Notes
 project.notes
+
+# Other
+.DS_Store
