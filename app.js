@@ -1,6 +1,7 @@
 const express = require("express");
 const projectsData = require("./data.json");
 const app = express();
+const port = process.env.PORT || 3000;
 
 app.set("view engine", "pug");
 app.use("/static", express.static("public"));
@@ -32,11 +33,10 @@ app.use((req, res, next) => {
 
 app.use((err, req, res, next) => {
   res.locals.error = err; // this stores the error into the response object to be used anywhere the response is used.
-  console.log("There was an error...")
   res.render("error");
 })
 
 
-app.listen(3000, () => {
-  console.log("Server running on port 3000");
+app.listen(port, () => {
+  console.log(`Server running on port ${port}`);
 });
